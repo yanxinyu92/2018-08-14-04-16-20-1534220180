@@ -26,7 +26,7 @@ class Sequence {
   minimum() {
     // Write your code here
     
-    return this.list[0];
+    return this.list[0]
   }
 
   maximun() {
@@ -38,7 +38,7 @@ class Sequence {
   }
 
   average() {
-    return this.avg;
+    return this.avg
   }
   // Write your code here
 }
